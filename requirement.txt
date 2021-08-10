@@ -1,0 +1,5 @@
+scipy
+pymongo==3.11.1
+jsonpickle
+xmltodict
+datasketch

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mongodb>
+    <host>mongodb</host>
+    <username>admin</username>
+    <password>password</password>
+    <port>27027</port>
+</mongodb>
